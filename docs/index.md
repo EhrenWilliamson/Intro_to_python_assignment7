@@ -14,7 +14,7 @@ This script is pretty boring so I made it “Pickle” themed based on Pickle Ri
 
 The writing and reading of the files were pretty much the same except I had to use “wb” instead of w for example which was in the open function documentation in python along with the pickle.dump function which I found in the pickle module documentation.
 
-
+```
 # ------------------------------------------------- #
 # Title: PickleRick
 # Description: A simple example of storing data in a binary file.
@@ -108,7 +108,7 @@ please choose now: """)
         print("Rick is confused, try again" + "\n")
         continue
 
-
+```
 ## Execution
 
 ![idle assignment 7](https://user-images.githubusercontent.com/25311063/109673518-bb43c600-7b3b-11eb-8e64-294788cd4a4c.PNG)
