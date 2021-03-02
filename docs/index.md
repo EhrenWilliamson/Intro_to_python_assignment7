@@ -111,9 +111,8 @@ please choose now: """)
 
 ## Execution
 
-https://user-images.githubusercontent.com/25311063/109673186-63a55a80-7b3b-11eb-99ed-8884b28bfce0.PNG
-
-https://user-images.githubusercontent.com/25311063/109673191-643df100-7b3b-11eb-8e89-96ec93463328.PNG
+![idle assignment 7](https://user-images.githubusercontent.com/25311063/109673518-bb43c600-7b3b-11eb-8e64-294788cd4a4c.PNG)
+![pycharm assignment 7](https://user-images.githubusercontent.com/25311063/109673538-c0087a00-7b3b-11eb-8fae-0a75bf56ecc8.PNG)
 
 ## Summary
 
